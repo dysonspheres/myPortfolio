@@ -56,7 +56,7 @@ import {
   
   const services = [
     {
-      title: "React Developer",
+      title: "Full Stack Developer",
       icon: web,
     },
     {
@@ -64,7 +64,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Full Stack Developer",
+      title: "UI/UX Designer",
       icon: backend,
     },
     {
@@ -148,7 +148,7 @@ import {
         "Constructed machine learning model to detect pneumonia from lung CT scans.",
         "Utilized Keras VGG16 deep learning architecture and CNNs for binary image classifications.",
         "Presented work alongside Dr. Sriram Natarajan at Jonsson School of Engineering Research Symposium.",
-        "Trained model on dataset of 6,000 CT scans from National Institute of Health, yielding 97% prediction accuracy",
+        "Trained model on dataset of 6,000 CT scans from National Institute of Health, yielding 97% prediction accuracy.",
       ],
     },
     {
@@ -201,7 +201,7 @@ import {
     },
     {
       testimonial:
-        "Directly oversaw residents in North Campus residence hall, fostering fellowship amongst residents and attending to building complex inquiries.",
+        "Directly oversaw residents in North Campus residence hall, fostered fellowship amongst residents and attended to building complex inquiries.",
       name: "Resident Assistant",
       designation: "",
       company: "UT Housing and Dining",
@@ -263,7 +263,7 @@ import {
     {
       name: "ML Door Detection",
       description:
-        "A comprehensive research initiative assessing the efficacy of door detection via a robot's LiDAR sensors and CNN binary image classification model.",
+        "A comprehensive research initiative comparing the efficacy of door detection between a robot's LiDAR sensors and a CNN binary image classification model.",
       tags: [
         {
           name: "python",
