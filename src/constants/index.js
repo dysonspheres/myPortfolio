@@ -133,7 +133,7 @@ import {
       date: "May 2020 - August 2020",
       points: [
         "Orchestrated virtual technology summer camp for approximately 200 local elementary students.",
-        "Provided intstruction to students on introductory computational and engineering skills to implement in a final project.",
+        "Provided instruction to students on introductory computational and engineering skills to implement in a final project.",
         "Introduced students to introductory Java, Python, HTML, and CAD (3D Printing).",
         "Organized summer camp closing ceremony and designed student certificates.",
       ],
