@@ -16,6 +16,7 @@ import {
     utcs,
     mongodb,
     givingTree,
+    summaryAI,
     carpet,
     cplus,
     java,
@@ -280,6 +281,27 @@ import {
       ],
       image: door,
       source_code_link: "https://github.com/dysonspheres/FRI-ML-Door-Detection-Model",
+    },
+    {
+      name: "summaryAI",
+      description:
+        "An AI summarization tool powered by OpenAI GPT-4 that can summarize the dense texts, articles, and lengthy reports one is exposed to in life.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "redux",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: summaryAI,
+      source_code_link: "https://github.com/dysonspheres/summaryAI",
     },
   ];
   

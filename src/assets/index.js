@@ -40,6 +40,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import givingTree from "./givingTree.png";
+import summaryAI from "./summaryAI.png";
 import carpet from "./carpet.png";
 import door from "./door.png";
 import utcs from "./utcs.jpg";
@@ -56,6 +57,7 @@ export {
   mobile,
   web,
   github,
+  summaryAI,
   givingTree,
   menu,
   close,
