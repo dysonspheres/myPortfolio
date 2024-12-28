@@ -35,6 +35,7 @@ import utd from "./company/utd.png";
 import convergent from "./company/convergent.png";
 import ut from "./company/ut.png";
 import cognizant from "./company/cognizant.png";
+import bofa from "./company/bofa.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -84,6 +85,7 @@ export {
   uh,
   ut,
   cognizant,
+  bofa,
   utd,
   convergent,
   tesla,

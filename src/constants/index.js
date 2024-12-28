@@ -29,6 +29,7 @@ import {
     convergent,
     ut,
     cognizant,
+    bofa,
     utd,
     meta,
     starbucks,
@@ -187,6 +188,18 @@ import {
         "Networked and learned about Software Engineering roles at Cognizant.",
         "Obtained certification in Agile Methodologies.",
         "Studied computational models utilized in Cognizant's F1 partnership.",
+      ],
+    },
+    {
+      title: "Software Engineer Intern",
+      company_name: "Bank of America",
+      icon: bofa,
+      iconBg: "#E6DEDD",
+      date: "June 2024 - August 2024",
+      points: [
+        " Worked in Global Markets Technology, managing traded product reference data for 1M+ securities from Bloomberg and Reuters across cross-functional teams.",
+        " Deployed full-stack enterprise application for internal bank auditors and regulators (FINRA) to query and translate business rules applied to individual securities using Java, SQL, Oracle RDBMS, Jenkins/CloudBees, and Jakarta Server Pages (JSP).",
+        " Constructed NLP email summarization tool with ML urgency detection for business executives to identify urgent emails and prioritize responses using Python, Streamlit, and Jupyter Notebook.",
       ],
     },
   ];
